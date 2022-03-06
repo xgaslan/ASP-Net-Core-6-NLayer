@@ -21,6 +21,9 @@
 
   <ItemGroup>
     <Folder Include="Configurations\" />
+    <Folder Include="UnitOfWorks\" />
+    <Folder Include="Repositories\" />
+    <Folder Include="Seeds\" />
   </ItemGroup>
 
 </Project>
