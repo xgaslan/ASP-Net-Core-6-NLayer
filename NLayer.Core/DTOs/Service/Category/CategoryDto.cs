@@ -1,4 +1,4 @@
-﻿namespace NLayer.Core.DTOs;
+﻿namespace NLayer.Core.DTOs.Service.Category;
 
 public class CategoryDto : BaseDto
 {

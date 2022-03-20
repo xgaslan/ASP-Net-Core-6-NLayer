@@ -1,11 +1,9 @@
-﻿namespace NLayer.Core.DTOs;
+﻿namespace NLayer.Core.DTOs.Controller.Create;
 
-public class ProductUpdateDto
+public class ProductCreateDto
 {
-    public int Id { get; set; }
     public string Name { get; set; }
     public int Stock { get; set; }
     public decimal Price { get; set; }
     public int CategoryId { get; set; }
-
 }
