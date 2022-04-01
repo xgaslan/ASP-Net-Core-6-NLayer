@@ -1,12 +1,11 @@
 ﻿using AutoMapper;
-using NLayer.Core.DTOs;
 using NLayer.Core.DTOs.Controller.Create;
 using NLayer.Core.DTOs.Controller.Update;
 using NLayer.Core.DTOs.Service.Category;
 using NLayer.Core.DTOs.Service.Product;
 using NLayer.Core.Models;
 
-namespace NLayer.Service.Services.Mapping;
+namespace NLayer.Service.Mapping;
 
 public class MapProfile : Profile
 {
